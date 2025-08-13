@@ -1,4 +1,7 @@
 def umnozhenie(a, b):
 	return a * b
-print(umnozhenie(3, 4))
+
+def sm(a: int, b: int) -> int:
+	return a+b
+
 print("Hello")
